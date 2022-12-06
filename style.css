@@ -1,0 +1,17 @@
+/* 
+    Theme Name: Awesome Theme
+    Theme URI: https://localhost.com/testTheme
+    Author: Tyler Wallace
+    Description: This is an awesome theme
+    Version: 0.1
+    Tags: black, white, responsive, two-columns, featured-images, custom menu, custom-header
+*/
+
+.container {
+    display: flex;
+    position: relative;
+}
+
+.container ul {
+    list-style-type: none;
+}
